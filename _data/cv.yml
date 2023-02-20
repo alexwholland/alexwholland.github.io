@@ -2,64 +2,40 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Alex Holland
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Software Engineering (BSEng)
+      institution: University of Victoria
+      year: Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Fourth year
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Developer Co-op
+      institution: Kinsol Research
+      year: Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed robust software solutions with high code quality by applying testing and design principles.
+        - Collaborated effectively with cross-functional teams and stakeholders to drive successful project outcomes.
+        - Created scalable and responsive client/server architectures using advanced proficiency in Python and other relevant languages.
+        - Designed and maintained fault-tolerant, highly scalable distributed systems using Linux servers and relational/NoSQL databases.
+        - Employed agile methodologies and continuous integration tools to streamline workflows and improve product quality.
+    - title: Quality Assurance Analyst 
+      institution: ACD Systems International Co-op
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Conducted thorough manual and automated testing of ACD's digital imaging software, identifying and documenting defects, and recommending modifications and additions to features.
+        - Demonstrated strong technical expertise in computer science and solid analytical and investigative skills, contributing to the development of test plans and strategies that met ACD's high-quality standards.
+        - Maintained excellent organizational skills and attention to detail while balancing multiple priorities in a fast-paced, dynamic work environment.
+        - Collaborated effectively with the Quality Assurance team, as well as Engineering and other stakeholders, to establish and verify benchmarks for program efficiency and performance.
+        - Communicated effectively in both written and verbal form, demonstrating strong business communication skills, problem-solving skills, and ability to work effectively independently and as part of a team.
 
 - title: Open Source Projects
   type: time_table
